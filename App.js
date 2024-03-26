@@ -13,7 +13,7 @@ import {
 } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { StatusBar } from "expo-status-bar";
-import * as Picker from "@react-native-picker/picker";
+import { Picker } from '@react-native-picker/picker';
 import QRCode from 'react-native-qrcode-svg';
 import * as Haptics from 'expo-haptics';
 
